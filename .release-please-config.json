@@ -14,6 +14,7 @@
       "pull-request-title-pattern": "chore: release ${version}"
     }
   },
+  "signoff": "matiasleyba <matias.leyba@verygood.ventures>",
   "exclude-paths": [
     ".github",
     "site",
